@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayHelloLib", "SayHelloLib\SayHelloLib.csproj", "{8EB3E791-293C-419F-995F-6248D68705E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EB3E791-293C-419F-995F-6248D68705E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB3E791-293C-419F-995F-6248D68705E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB3E791-293C-419F-995F-6248D68705E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB3E791-293C-419F-995F-6248D68705E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {398ED34E-4246-48C3-8977-BACE522330D2}
+	EndGlobalSection
+EndGlobal
